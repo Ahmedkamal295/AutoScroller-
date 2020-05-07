@@ -1,0 +1,6 @@
+framework module Pods_AutoScroller {
+  umbrella header "Pods-AutoScroller-umbrella.h"
+
+  export *
+  module * { export * }
+}
